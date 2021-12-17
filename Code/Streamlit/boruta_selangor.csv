@@ -1,0 +1,31 @@
+,Feature,Ranking
+56,"('1_day_before', 'W.P. Labuan')",2
+4,cluster_religious,3
+176,"('5_day_before', 'W.P. Labuan')",4
+158,"('4_day_before', 'Selangor')",5
+25,"('cases_import', 'W.P. Kuala Lumpur')",6
+98,"('2_day_before', 'Selangor')",7
+71,"('1_month_before', 'W.P. Labuan')",8
+6,cluster_highRisk,9
+8,cluster_detentionCentre,10
+107,"('2_week_before', 'Negeri Sembilan')",11
+9,cluster_workplace,12
+182,"('6_day_before', 'Negeri Sembilan')",12
+160,"('4_day_before', 'W.P. Kuala Lumpur')",14
+161,"('4_day_before', 'W.P. Labuan')",15
+137,"('3_week_before', 'Negeri Sembilan')",16
+23,"('cases_import', 'Selangor')",17
+7,cluster_education,18
+122,"('3_day_before', 'Negeri Sembilan')",19
+162,"('4_day_before', 'W.P. Putrajaya')",20
+62,"('1_month_before', 'Negeri Sembilan')",21
+130,"('3_day_before', 'W.P. Kuala Lumpur')",22
+89,"('2_day_before', 'Kedah')",23
+86,"('1_week_before', 'W.P. Labuan')",24
+191,"('6_day_before', 'W.P. Labuan')",25
+152,"('4_day_before', 'Negeri Sembilan')",26
+100,"('2_day_before', 'W.P. Kuala Lumpur')",27
+121,"('3_day_before', 'Melaka')",29
+167,"('5_day_before', 'Negeri Sembilan')",29
+190,"('6_day_before', 'W.P. Kuala Lumpur')",29
+51,"('1_day_before', 'Sabah')",29

@@ -1,0 +1,194 @@
+,Feature,Ranking
+0,cases_new,1
+121,"('3_day_before', 'Melaka')",1
+122,"('3_day_before', 'Negeri Sembilan')",1
+123,"('3_day_before', 'Pahang')",1
+124,"('3_day_before', 'Perak')",1
+125,"('3_day_before', 'Perlis')",1
+126,"('3_day_before', 'Sabah')",1
+127,"('3_day_before', 'Sarawak')",1
+128,"('3_day_before', 'Selangor')",1
+129,"('3_day_before', 'Terengganu')",1
+130,"('3_day_before', 'W.P. Kuala Lumpur')",1
+131,"('3_day_before', 'W.P. Labuan')",1
+132,"('3_day_before', 'W.P. Putrajaya')",1
+134,"('3_week_before', 'Kedah')",1
+135,"('3_week_before', 'Kelantan')",1
+136,"('3_week_before', 'Melaka')",1
+137,"('3_week_before', 'Negeri Sembilan')",1
+138,"('3_week_before', 'Pahang')",1
+139,"('3_week_before', 'Perak')",1
+140,"('3_week_before', 'Perlis')",1
+120,"('3_day_before', 'Kelantan')",1
+119,"('3_day_before', 'Kedah')",1
+118,"('3_day_before', 'Johor')",1
+117,"('2_week_before', 'W.P. Putrajaya')",1
+191,"('6_day_before', 'W.P. Labuan')",1
+97,"('2_day_before', 'Sarawak')",1
+98,"('2_day_before', 'Selangor')",1
+99,"('2_day_before', 'Terengganu')",1
+100,"('2_day_before', 'W.P. Kuala Lumpur')",1
+101,"('2_day_before', 'W.P. Labuan')",1
+102,"('2_day_before', 'W.P. Putrajaya')",1
+103,"('2_week_before', 'Johor')",1
+105,"('2_week_before', 'Kelantan')",1
+141,"('3_week_before', 'Sabah')",1
+106,"('2_week_before', 'Melaka')",1
+108,"('2_week_before', 'Pahang')",1
+109,"('2_week_before', 'Perak')",1
+110,"('2_week_before', 'Perlis')",1
+111,"('2_week_before', 'Sabah')",1
+112,"('2_week_before', 'Sarawak')",1
+113,"('2_week_before', 'Selangor')",1
+114,"('2_week_before', 'Terengganu')",1
+115,"('2_week_before', 'W.P. Kuala Lumpur')",1
+116,"('2_week_before', 'W.P. Labuan')",1
+107,"('2_week_before', 'Negeri Sembilan')",1
+95,"('2_day_before', 'Perlis')",1
+142,"('3_week_before', 'Sarawak')",1
+144,"('3_week_before', 'Terengganu')",1
+170,"('5_day_before', 'Perlis')",1
+171,"('5_day_before', 'Sabah')",1
+172,"('5_day_before', 'Sarawak')",1
+173,"('5_day_before', 'Selangor')",1
+175,"('5_day_before', 'W.P. Kuala Lumpur')",1
+176,"('5_day_before', 'W.P. Labuan')",1
+177,"('5_day_before', 'W.P. Putrajaya')",1
+178,"('6_day_before', 'Johor')",1
+179,"('6_day_before', 'Kedah')",1
+180,"('6_day_before', 'Kelantan')",1
+181,"('6_day_before', 'Melaka')",1
+182,"('6_day_before', 'Negeri Sembilan')",1
+183,"('6_day_before', 'Pahang')",1
+184,"('6_day_before', 'Perak')",1
+186,"('6_day_before', 'Sabah')",1
+187,"('6_day_before', 'Sarawak')",1
+188,"('6_day_before', 'Selangor')",1
+189,"('6_day_before', 'Terengganu')",1
+190,"('6_day_before', 'W.P. Kuala Lumpur')",1
+169,"('5_day_before', 'Perak')",1
+168,"('5_day_before', 'Pahang')",1
+167,"('5_day_before', 'Negeri Sembilan')",1
+165,"('5_day_before', 'Kelantan')",1
+145,"('3_week_before', 'W.P. Kuala Lumpur')",1
+146,"('3_week_before', 'W.P. Labuan')",1
+147,"('3_week_before', 'W.P. Putrajaya')",1
+148,"('4_day_before', 'Johor')",1
+149,"('4_day_before', 'Kedah')",1
+150,"('4_day_before', 'Kelantan')",1
+151,"('4_day_before', 'Melaka')",1
+152,"('4_day_before', 'Negeri Sembilan')",1
+153,"('4_day_before', 'Pahang')",1
+143,"('3_week_before', 'Selangor')",1
+154,"('4_day_before', 'Perak')",1
+156,"('4_day_before', 'Sabah')",1
+157,"('4_day_before', 'Sarawak')",1
+158,"('4_day_before', 'Selangor')",1
+159,"('4_day_before', 'Terengganu')",1
+160,"('4_day_before', 'W.P. Kuala Lumpur')",1
+161,"('4_day_before', 'W.P. Labuan')",1
+162,"('4_day_before', 'W.P. Putrajaya')",1
+163,"('5_day_before', 'Johor')",1
+164,"('5_day_before', 'Kedah')",1
+155,"('4_day_before', 'Perlis')",1
+94,"('2_day_before', 'Perak')",1
+96,"('2_day_before', 'Sabah')",1
+92,"('2_day_before', 'Negeri Sembilan')",1
+30,"('cases_new', 'Melaka')",1
+31,"('cases_new', 'Negeri Sembilan')",1
+32,"('cases_new', 'Pahang')",1
+33,"('cases_new', 'Perak')",1
+34,"('cases_new', 'Perlis')",1
+35,"('cases_new', 'Pulau Pinang')",1
+36,"('cases_new', 'Sabah')",1
+37,"('cases_new', 'Sarawak')",1
+29,"('cases_new', 'Kelantan')",1
+38,"('cases_new', 'Selangor')",1
+40,"('cases_new', 'W.P. Kuala Lumpur')",1
+41,"('cases_new', 'W.P. Labuan')",1
+42,"('cases_new', 'W.P. Putrajaya')",1
+43,"('1_day_before', 'Johor')",1
+44,"('1_day_before', 'Kedah')",1
+93,"('2_day_before', 'Pahang')",1
+46,"('1_day_before', 'Melaka')",1
+47,"('1_day_before', 'Negeri Sembilan')",1
+39,"('cases_new', 'Terengganu')",1
+28,"('cases_new', 'Johor')",1
+26,"('cases_import', 'W.P. Labuan')",1
+25,"('cases_import', 'W.P. Kuala Lumpur')",1
+1,cases_import,1
+3,cluster_import,1
+4,cluster_religious,1
+5,cluster_community,1
+6,cluster_highRisk,1
+7,cluster_education,1
+8,cluster_detentionCentre,1
+9,cluster_workplace,1
+10,rtk-ag,1
+11,pcr,1
+12,"('cases_import', 'Johor')",1
+13,"('cases_import', 'Kedah')",1
+14,"('cases_import', 'Kelantan')",1
+15,"('cases_import', 'Melaka')",1
+18,"('cases_import', 'Perak')",1
+20,"('cases_import', 'Pulau Pinang')",1
+22,"('cases_import', 'Sarawak')",1
+23,"('cases_import', 'Selangor')",1
+24,"('cases_import', 'Terengganu')",1
+48,"('1_day_before', 'Pahang')",1
+49,"('1_day_before', 'Perak')",1
+45,"('1_day_before', 'Kelantan')",1
+51,"('1_day_before', 'Sabah')",1
+73,"('1_week_before', 'Johor')",1
+74,"('1_week_before', 'Kedah')",1
+50,"('1_day_before', 'Perlis')",1
+76,"('1_week_before', 'Melaka')",1
+77,"('1_week_before', 'Negeri Sembilan')",1
+78,"('1_week_before', 'Pahang')",1
+79,"('1_week_before', 'Perak')",1
+80,"('1_week_before', 'Perlis')",1
+72,"('1_month_before', 'W.P. Putrajaya')",1
+81,"('1_week_before', 'Sabah')",1
+83,"('1_week_before', 'Selangor')",1
+84,"('1_week_before', 'Terengganu')",1
+85,"('1_week_before', 'W.P. Kuala Lumpur')",1
+86,"('1_week_before', 'W.P. Labuan')",1
+87,"('1_week_before', 'W.P. Putrajaya')",1
+88,"('2_day_before', 'Johor')",1
+89,"('2_day_before', 'Kedah')",1
+91,"('2_day_before', 'Melaka')",1
+82,"('1_week_before', 'Sarawak')",1
+71,"('1_month_before', 'W.P. Labuan')",1
+75,"('1_week_before', 'Kelantan')",1
+61,"('1_month_before', 'Melaka')",1
+52,"('1_day_before', 'Sarawak')",1
+53,"('1_day_before', 'Selangor')",1
+54,"('1_day_before', 'Terengganu')",1
+55,"('1_day_before', 'W.P. Kuala Lumpur')",1
+56,"('1_day_before', 'W.P. Labuan')",1
+57,"('1_day_before', 'W.P. Putrajaya')",1
+58,"('1_month_before', 'Johor')",1
+59,"('1_month_before', 'Kedah')",1
+60,"('1_month_before', 'Kelantan')",1
+70,"('1_month_before', 'W.P. Kuala Lumpur')",1
+62,"('1_month_before', 'Negeri Sembilan')",1
+192,"('6_day_before', 'W.P. Putrajaya')",1
+66,"('1_month_before', 'Sabah')",1
+69,"('1_month_before', 'Terengganu')",1
+63,"('1_month_before', 'Pahang')",1
+68,"('1_month_before', 'Selangor')",1
+64,"('1_month_before', 'Perak')",1
+67,"('1_month_before', 'Sarawak')",1
+65,"('1_month_before', 'Perlis')",1
+185,"('6_day_before', 'Perlis')",2
+104,"('2_week_before', 'Kedah')",3
+174,"('5_day_before', 'Terengganu')",4
+16,"('cases_import', 'Negeri Sembilan')",5
+90,"('2_day_before', 'Kelantan')",6
+2,cases_recovered,7
+17,"('cases_import', 'Pahang')",8
+21,"('cases_import', 'Sabah')",9
+19,"('cases_import', 'Perlis')",10
+27,"('cases_import', 'W.P. Putrajaya')",11
+133,"('3_week_before', 'Johor')",12
+166,"('5_day_before', 'Melaka')",13
