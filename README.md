@@ -5,7 +5,7 @@ The datasets used are taken from [MoH official github](https://github.com/MoH-Ma
 
 For more info, please refer to the documentation pdf file in the reference folder
 
-# How to start the app
+# How to start the app ?
 I have hosted the streamlit app on heroku, feel free to click this [link](https://bukancovidnow.herokuapp.com/) and try to explore.
 
 To start jupyter file locally, navigate to Code folder and run the two jupyter file:
